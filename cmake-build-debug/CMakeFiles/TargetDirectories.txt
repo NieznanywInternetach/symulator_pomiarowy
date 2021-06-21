@@ -1,0 +1,3 @@
+C:/c_folder/symulator_pomiarowy/cmake-build-debug/CMakeFiles/symulator_pomiarowy.dir
+C:/c_folder/symulator_pomiarowy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c_folder/symulator_pomiarowy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

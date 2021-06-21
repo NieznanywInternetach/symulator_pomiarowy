@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/c_folder/symulator_pomiarowy/main.c
+stdio.h
+-
+locale.h
+-
+stdbool.h
+-
+stdlib.h
+-
+limits.h
+-
+string.h
+-
+math.h
+-
+float.h
+-
+time.h
+-
+
